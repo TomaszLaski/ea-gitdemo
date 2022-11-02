@@ -1,2 +1,2 @@
 # ea-gitdemo
-## 👋 Tomasz 
+## 👋 Tomasz Łaski
